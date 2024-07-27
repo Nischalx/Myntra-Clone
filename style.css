@@ -1,0 +1,79 @@
+* {
+  margin: 0px;
+}
+.navbar {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 5%;
+  padding-right: 5%;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+}
+.logo {
+  width: 53px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.myntra-logo {
+  width: 53px;
+}
+.nav {
+  width: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 20px;
+}
+sup {
+  top: -0.4rem;
+  position: relative;
+}
+.font {
+  font-family: ;
+}
+.menu {
+  width: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 20px;
+}
+.nav_search {
+  display: flex;
+  align-items: center;
+}
+.option {
+  display: flex;
+}
+.user {
+  display: flex;
+}
+.sign_up {
+  width: 25px;
+  height: 25px;
+}
+.poster {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.poster1 {
+  width: 100%;
+}
+
+.search-input {
+  width: 100%;
+  font-size: 1rem;
+}
+.flat {
+  display: flex;
+}
+.flat1 {
+  width: 50%;
+}
